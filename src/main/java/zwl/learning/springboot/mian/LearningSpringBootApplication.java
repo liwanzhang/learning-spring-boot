@@ -1,4 +1,4 @@
-package zwl.learning.springboot;
+package zwl.learning.springboot.mian;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
